@@ -1,5 +1,5 @@
 
-# AI-based-AI-based-physical-design-and-chip-design-system
+# AI-based-physical-design-and-chip-design-system
 
 An advanced # AI-based-AI-based-physical-design-and-chip-design-system for automated chip floorplanning, routing, and analysis using **Reinforcement Learning (PPO)**.
 
