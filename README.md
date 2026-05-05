@@ -68,9 +68,8 @@ Thermal Analysis
 ### 1️ Clone Repository
 
 ```
-git clone [https://github.com/karnati/ai-chip-designer.git](https://github.com/karnatikirankumarreddy234/AI-based-AI-based-physical-design-and-chip-design-system-)
-cd ai-chip-designer
-```
+git clone https://github.com/karnatikirankumarreddy234/AI-based-AI-based-physical-design-and-chip-design-system-.git
+cd AI-based-AI-based-physical-design-and-chip-design-system-
 
 ### 2️ Install Dependencies
 
